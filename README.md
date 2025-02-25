@@ -1,2 +1,1 @@
-# SMA-LAB
-web
+# SMA-laboratorium-UPGRIS
